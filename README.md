@@ -10,7 +10,7 @@ Without JavaScript you won't see some of the animation. \
 Without CSS there won't be animation but the menu will always be visible.
 
 Works in IE10
-![IE10](https://github.com/meesrutten/accessible-menu/blob/master/master/screenshot.png "IE10 test")
+![IE10](https://github.com/meesrutten/accessible-menu/blob/master/screenshot.png "IE10 test")
 
 
 [`Array.prototype.forEach`](https://developer.mozilla.org/nl/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
